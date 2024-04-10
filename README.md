@@ -1,6 +1,7 @@
 # Quake-Live-Rcon
 
-<b><u>Download Latest Release</b></u>: https://github.com/BarelyMiSSeD/Quake-Live-Rcon/releases
+<b><u>Download Latest Release</b></u>: Subscribe to @Barelymissed workshop to download in through Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=974429245 
+Alternatively latest version is now also availabe in "releases" section.
 
 <b>Visual C++ Redistributable 2015</b> is required for this application. Most people should already have what is needed to run this application, so try running it first. If it won't run download and install Visual C++ here: https://www.microsoft.com/en-us/download/details.aspx?id=52685
 
